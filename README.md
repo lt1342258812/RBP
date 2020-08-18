@@ -48,6 +48,9 @@ The source code assumes that traffic trace files are represented as `<timestamp>
 
 The filenames of the traces have the following format: `<site index>-<instance index>`.
 
+## Dataset
+Download wang.rar  from https://www.cse.ust.hk/~taow/wf/data/ and extract files.
+
 ## Questions and comments
 
 Please, address any questions or comments to the authors of the paper. The main developers of this code are:
